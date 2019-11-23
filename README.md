@@ -1,4 +1,4 @@
-# landry_app
+# Landry app
 
 A new Flutter project.
 
